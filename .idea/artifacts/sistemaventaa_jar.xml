@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sistemaventaa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sistemaventaa_jar</output-path>
+    <root id="archive" name="sistemaventaa.jar">
+      <element id="module-output" name="sistemaventaa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/librerias/itextpdf-5.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/librerias/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/librerias/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/librerias/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/librerias/mysql-connector-java-8.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/librerias/AbsoluteLayout.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
